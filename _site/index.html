@@ -159,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="about-me">About me</h3>
 <div class="grid">
 <div class="g-col-7">
-<p>My name is Christian Stratton and I am currently an assistant professor of statistics at Middlebury College. My research interests include:</p>
+<p>My name is Christian Stratton and I am currently an <a href="https://www.middlebury.edu/college/people/christian-stratton">Assistant Professor of Statistics</a> at Middlebury College. My research interests include:</p>
 <ul>
 <li>Bayesian computation</li>
 <li>Species distribution modeling</li>
@@ -197,7 +197,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="contact" class="level3">
 <h3 class="anchored" data-anchor-id="contact">Contact</h3>
-<p>For potential collaboration or inquiries from students, please contact me at <a href="mailto:christianstratton@montana.edu">christianstratton@montana.edu</a>. For updates on Bozeman Ecological and Environmental Statistics group events, please visit the group <a href="https://bozemanenvrstat.github.io/">website</a>.</p>
+<p>For potential collaboration or inquiries from students, please contact me at <a href="mailto:cstratton@middlebury.edu">cstratton@middlebury.edu</a>. For updates on Bozeman Ecological and Environmental Statistics group events, please visit the group <a href="https://bozemanenvrstat.github.io/">website</a>.</p>
 
 
 </section>
@@ -293,7 +293,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/christianstratton\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

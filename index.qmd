@@ -7,7 +7,7 @@ title: "Christian Stratton"
 ::: {.grid}
 
 ::: {.g-col-7}
-My name is Christian Stratton and I am currently an assistant professor of statistics at Middlebury College. My research interests include:
+My name is Christian Stratton and I am currently an [Assistant Professor of Statistics](https://www.middlebury.edu/college/people/christian-stratton) at Middlebury College. My research interests include:
 
   - Bayesian computation
   - Species distribution modeling
@@ -40,5 +40,5 @@ When not working on projects in `R` or `Julia`, I am probably out on the river l
 
 ### Contact
 
-For potential collaboration or inquiries from students, please contact me at [christianstratton@montana.edu](mailto:christianstratton@montana.edu). For updates on Bozeman Ecological and Environmental Statistics group events, please visit the group [website](https://bozemanenvrstat.github.io/).
+For potential collaboration or inquiries from students, please contact me at [cstratton@middlebury.edu](mailto:cstratton@middlebury.edu). For updates on Bozeman Ecological and Environmental Statistics group events, please visit the group [website](https://bozemanenvrstat.github.io/).
 
