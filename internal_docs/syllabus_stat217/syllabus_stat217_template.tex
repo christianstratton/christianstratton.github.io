@@ -1,0 +1,25 @@
+\documentclass[11pt]{article}
+\setlength{\topmargin}{-1in}
+\setlength{\textheight}{9.25in}
+\setlength{\oddsidemargin}{-.3in}
+\setlength{\textwidth}{7.00in}
+
+\usepackage{color, soul, graphicx, url, framed, geometry}
+\geometry{
+  verbose, 
+  letterpaper, 
+  tmargin=2cm, 
+  bmargin=2cm, 
+  lmargin=2cm, 
+  rmargin=2cm
+} 
+
+\DeclareRobustCommand{\mychar}{%
+  \begingroup\normalfont
+  \includegraphics[height=\fontcharht\font`\B]{picture.png}%
+  \endgroup
+}
+
+\begin{document}
+$body$
+\end{document}

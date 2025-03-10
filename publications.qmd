@@ -1,0 +1,50 @@
+---
+title: "Publications"
+editor: source
+---
+
+<!-- ### In Preparation -->
+
+### In Review
+
+Oram, J., K.M. Banner, **Stratton, C.**, Andrew Hoegh, and K.M. Irvine. "Leveraging the observed-data likelihood improves using machine learning labels in a Bayesian hierarchical model for bioacoustic data." In review in *Annals of Applied Statistics.*
+
+<!-- ### Accepted -->
+
+### Published
+
+**Stratton, C.**, A. Hoegh, T.J. Rodhouse, J.L. Green, K.M. Banner, K.M. Irvine. 2024. "[Clustering and unconstrained ordination with Dirichlet process mixture models.](https://doi.org/10.1111/2041-210X.14389)"
+
+**Stratton, C.**, K.M Irvine, K.M. Banner, E.S. Almberg, D. Bachen, and K. Smucker. 2024. "[Joint spatial modeling bridges the gap between disparate disease surveillance and population monitoring efforts informing conservation of at-risk bat species.](https://doi.org/10.1007/s13253-023-00593-8)"
+
+**Stratton, C.**, K.M. Banner, and K.M. Irvine. 2023. ["Code vignette for application of the spatially misaligned regression model described in 'Joint spatial modeling bridges the gap between disparate disease surveillance and population monitoring efforts informing conservation of at-risk bat species,' U.S. Geological Survey software release"](https://code.usgs.gov/usgs/norock/irvine_k/spatial-misalignment-application)
+
+**Stratton, C.**, B.R. Straw, J.H. Cox, K.M. Irvine, F.C. Tousley, and B.E. Reichert. 2023. "[Attributed North American Grid-Based Offshore Sampling Frames: U.S. Geological Survey data release.](https://doi.org/10.5066/P9H8NEOY)"
+
+**Stratton, C.**, K.M. Irvine. 2022. Summertime analysis statistical report for Little Brown, Northern Long-eared, and Tricolored bat species status assessment. Chapter B in Straw, B.R, J. A. Martin, J.D Reichard, and B.E Reichert, editors. "[Analytical assessments in support of the U.S. Fish and Wildlife Service 3-Bat species status assessment. Cooperator report prepared in cooperation with the U.S. Geological Survey, United States Fish and Wildlife Service and Bat Conservation International.](https://doi.org/10.7944/P9B4RWEU)"
+
+**Stratton, C.**, K.M. Irvine, K.M. Banner, W.J. Wright, C. Lausen, J. Rae. 2022. "[Coupling validation effort with *in situ* bioacoustic data improves estimating relative activity and occupancy for multiple species with cross-species misclassifications.](https://doi.org/10.1111/2041-210X.13831)" *Methods in Ecology and Evolution*, 13(6), p. 1288 -- 1303.
+
+**Stratton, C.**, J.L. Green, and A. Hoegh. 2021. "[Not just normal: Exploring power with Shiny apps.](https://doi.org/10.5070/T513146468)" *Technology Innovations in Statistics Education*, 13(1), p. 1 -- 37.
+
+**Stratton, C.**, A.J. Sepulveda, and A. Hoegh. 2020. "[`msocc:` Fit and analyze computationally efficient multi-scale occupancy models in `R`.](https://doi.org/10.1111/2041-210X.13442)" *Methods in Ecology and Evolution*, 11(9), p. 1113 -- 1120.
+
+**Stratton, C.**, A. Hoegh, K. M. Irvine, K. Legg, K. McCloskey, E. Shanahan, M. Tercek, and D. Thoma. 2019. ["Assessing spatial and temporal patterns in sagebrush steppe vegetation communities, 2012-2018: Grand Teton National Park."](https://irma.nps.gov/DataStore/DownloadFile/631136) Natural Resource Report NPS/GRYN/NRR-2019/2020. National Park Service, Fort Collins, Colorado. \vspace*{2mm}
+
+Hoegh, A., K. Flagg, and **Stratton, C.**. 2018. Contributed comment on Article by Bradley, Holan, and Wikle [Invited commentary on "Computationally efficient multivariate spatio-temporal models for high-dimensional count-valued data" by Jonathan R. Bradley, Scott H. Holan, and Christopher K. Wikle.](https://eds.p.ebscohost.com/abstract?site=eds&scope=site&jrnl=19360975&AN=138950462&h=fupOc1pyeH8dv67mdPoRzhYvo96LS%2bzCYNHIjAcMPojnVBydkua%2fXFU6RanU78MDh8WNMlzPVI%2fBxvaUiWvg%2bw%3d%3d&crl=c&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d19360975%26AN%3d138950462) *Bayesian Data Analysis*, 13(1), p. 253 -- 310.
+
+Irvine, K.M., K.M. Banner, **Stratton, C.**, W.M. Ford, and B.E. Reichert. 2022. "[Statistical assessment on determining local presence of rare bat species.](https://doi.org/10.1002/ecs2.4142)" *Ecosphere*, 13(6), p. e4142.
+
+Irvine, K.M., and **C. Stratton**. 2021. "[Rangewide summertime model predictions for three bat species (*Myotis lucifigus*, *Myotis septentrionalis*, and *Perimyotis subflavus*) from acoustic and mist net data 2010 to 2019: US Geological Survey data release.](https://doi.org/10.5066/P9XZ8D6N.)"
+
+Khalighifar, A., B.S. Gotthold, E. Adams, J. Barnett, L.O. Beard, E.R. Britzke, P.A. Burger, K. Chase, Z. Cordes, P.M. Cryan, E. Ferrall, C.T. Fill, S.E. Gibson, G.S. Haulton, K.M. Irvine, L.S. Katz, W.L. Kendall, C.A. Long, O.M. Aodha, T. McBurney, S. McCarthy, M.W. McKown, J. O'Keefe, L.D. Patterson, K.A. Pitcher, M. Rustand, J.L. Segers, K. Seppanen, J.L. Simers, **Stratton, C.**, B.R. Straw, T.J. Weller, and B.E. Reichert. 2022. "[*NABat ML*: Utilizing deep learning to enable crowdsourced development of automated, scalable solutions for documenting North American bat populations.](https://doi.org/10.1111/1365-2664.14280)" *Journal of Applied Ecology*, 56(11), p. 2849 -- 2862.
+
+Sepulveda, A.J., A. Hoegh, J.A. Gage, S.L Caldwell-Eldridge, J.M. Birch, **Stratton, C.**, P.R. Hutchins, E.P. Barnhart. 2021. "[Integrating environmental DNA results with diverse data sets to improve biosurveillance of river health.](https://doi.org/10.3389/fevo.2021.620715)" *Frontiers in Ecology and Evolution*, 9, p. 1 -- 13.
+
+Sepulveda, A. J., C. Schmidt, J. Amberg, P. Hutchins, **Stratton, C.**, C. Mebane, M. B. Laramie, and D. S. Pilliod. 2019. "[Adding invasive species biosurveillance to the U.S. Geological Survey streamgage network.](https://doi.org/10.1002/ecs2.2843)" *Ecosphere*, 10(8), p. 1 -- 17.
+
+Udell, B.J., **C. Stratton**, B.R. Straw, K.M. Irvine, J.D. Reichard, S.M. Gaulke, J.T.H. Coleman, F. Tousley, R.D. Inman, A.N. Schuhmann, R. Shively, and B.E. Reichert. 2023. ["North American Bat Monitoring Program (NABat) Integrated Summer Species Distribution Model: Predicted Tricolored Bat Occupancy Probabilities: U.S. Geological Survey data release."](https://doi.org/10.5066/P9MV37I7)
+
+Udell, B.J., B.R. Straw, T.L. Cheng, K. Enns, W.F. Frick, B. Gotthold, K.M. Irvine, C. Lausen, S. Loeb, J.D. Reichard, T.J. Rodhouse, D. Smith, **C. Stratton**, W.E. Thogmartin, and B.E. Reichert. 2022. "[Status and trends of North American bats: Summer occupancy analysis 2010-2019.](https://doi.org/10.5066/P92JGACB)" U.S. Fish and Wildlife Service.
+
+Wessel, S.A., L. Jones, E. Kramer, **C. Stratton**, L. Shoemaker, and D. Laughlin. 2020. "[Predictability and stability of sagebrush-steppe restoration in a changing climate.](https://journals.uwyo.edu/index.php/uwnpsrc/article/view/6791/6301)" National Park Service Annual Report Vol. 43.

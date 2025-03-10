@@ -1,0 +1,196 @@
+---
+title: "Statement - DEI"
+format:
+  pdf:
+    template: syllabus_stat217_template.tex
+editor: source
+---
+
+
+\begin{center}
+{\large { \scshape  Statistics 217-006: Fall 2018 \\
+TRAP 225 \\
+MWF: 9:00-9:50 AM}}
+\end{center}
+
+\begin{framed}
+\begin{tabular}[h]{rl}
+\textbf{Course Instructor:} & Christian Stratton, Wilson 1-135 \\
+\textbf{Email:} & \verb+christianstratton@montana.edu+\\
+\textbf{Office Hours:} & TBD, by appt. \\
+\textbf{MLC:} & \textbf{T}: 12-1\\
+\textbf{Course Supervisor:} & Dr. Mark Greenwood, Wilson Hall 2-228\\
+\textbf{Email:} & \verb+greenwood@math.montana.edu+\\
+\end{tabular}
+\end{framed}
+
+
+\begin{itemize}
+
+\item {\bf Required Text:} Greenwood M. (2018), {\it Intermediate Statistics with} { \sf R}, Version 1.0 (Fall 2018). 
+\begin{itemize}
+\item Available in the MSU bookstore in color print $\approx \$33$. If sold out, you may request a special order form in the bookstore and a copy of the text will be printed for you within 24 hours. 
+\item And/or for digital download:\\
+html: \url{http://www.math.montana.edu/courses/s217/documents/_book/}\\
+PDF: \url{https://scholarworks.montana.edu/xmlui/handle/1/2999}
+\end{itemize}
+
+
+\item \textbf{Required Software:} We will use the statistical software \includegraphics[height = 1em]{Rlogo.png} for this course. 
+\begin{itemize}
+  \item Download \includegraphics[height = 1em]{Rlogo.png} for free for any operating system from here: \url{http://cran.r-project.org}.  
+  \item We will use \includegraphics[height = 1.5em]{RStudio-Logo-Blue-Gradient.png} as a GUI for running \includegraphics[height = 1em]{Rlogo.png}. \\
+  Download from here: \url{http://www.rstudio.com/products/rstudio/download}. 
+  \item \includegraphics[height = 1em]{Rlogo.png} is available on computers located in Reid and Roberts hall. 
+  \item If you do not have a personal computer, do not wish to download \includegraphics[height = 1em]{Rlogo.png} on your personal computer, or have problems with your installation of \includegraphics[height = 1em]{Rlogo.png} you must use the computer lab computers. \textbf{Not getting \includegraphics[height = 1em]{Rlogo.png} to work on your computer is not an excuse for failing to complete work.}
+\end{itemize}
+
+\item {\bf Course Website:} We will be using Brightspace LE (Desire2Learn) as our course website (site: \verb+http://ecat.montana.edu+). I will use D2L to manage your grades, post files, and make announcements about the schedule. 
+
+\begin{center}
+{ \Large \scshape Let me know ASAP if you have problems getting into D2L}
+\end{center}
+\item {\bf Prerequisite:} Successful completion of STAT 216. This course was designed to accommodate students who have taken any version of STAT 216 offered at MSU. We will discuss concepts from a traditional and a permutation perspective. 
+
+\item {\bf Course Objective:} I hope you will leave this semester with a basic understanding of the linear modeling framework, with improved statistical thinking and ability to communicate results, and have a basic working knowledge of \includegraphics[height = 1em]{Rlogo.png}. This Quantitative course has the following learning outcomes: 
+
+\begin{itemize}
+  
+  \item The student will be able to conduct one and two-sample tests and associated confidence intervals for means and proportions using \includegraphics[height = 1em]{Rlogo.png} (Chapters 0-1).
+  \item The student will be able to to make comparisons among groups of means using analysis of variance. This includes performing and interpreting One-Way and Two-Way Anova tests (Chapters 2-3).
+  \item The student will be able to investigate relationships between two categorical variables using contingency tables. This includes performing and interpreting $\chi^2$-tests (Chapter 4). 
+  \item The student will be able to assess linear relationships between two continuous variables using Pearson's correlation coefficient and simple linear regression (Chapter 5).
+  \item The student will be able to investigate relationships between a response and an explanatory variable of interest after accounting for confounding variables. This includes estimating and interpreting multiple linear regression models (Chapters 6-7). 
+  \item The student will be able to conduct these analyses using statistical software.
+  \item	Perform and interpret a One-Way ANOVA test
+  \item	Perform and interpret a Two-Way ANOVA test
+  \item	Estimate and interpret a multiple linear regression model
+  \item	Perform and interpret a Chi-square test
+  \item	Use statistical software to do all the previous analyses
+  
+
+\end{itemize}
+ 
+ \item {\bf Grading:}
+There will be three exams which will count as 65\% of your grade.
+Quizzes, homework, and projects will make up the remaining 35\%.
+{\bf Makeup exams must be arranged with me at least a week in advance, and will only be considered for extreme circumstances.}
+
+\begin{itemize}
+	\item Quizzes/Homework- 23\% (Q = 10\%, H = 13\%)
+	\item *For each day HW is late, 10\% will be deducted
+    \item Projects - (12\%) Projects will use the {\sf R} statistical package.
+	\item Exam 1 - 20\% 
+	\item Exam 2 - 20\%
+	\item Final Exam - 25\% (Cumulative)
+
+\end{itemize}
+{\bf Grade Cut-Offs:}
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{c|c|c|c|c|c|c|c|c|c}
+100-93\% & 93-90\% & 90-87\% & 87-83\% & 83-80\% &
+80-77\% & 77-73\% & 73-70\% & 70-60\%  & $<$ 60\% \\ \hline
+A & A- & B+ & B & B- & C+ & C & C- & D & F \\
+\end{tabular}
+\end{center}
+\end{table}%
+
+\vspace{-.2in}
+
+
+\item {\bf Homework and Projects:}  Approximately 8 homeworks and 3 group projects. You may choose your own groups. Groups must have 2-4 people. 
+\begin{itemize}
+  \item You may always use \includegraphics[height = 1em]{Rlogo.png} for calculations unless specified otherwise. {\bf Whenever you do include software output in your assignment, you must indicate clearly what the answer to the question is in a coherent sentence.}
+\end{itemize}
+
+\item {\bf Quizzes:} Quizzes will be given (un)announced. Some quizzes will involve group collaboration and/or take-home components, although most will be completed before class online. Expect frequent quizzes to provide you with a check of your preparation for class and as a review of recent material. Make-up quizzes may be arranged if I am contacted in advance. {\bf Expect to complete a short 3-5 question quiz over the assigned reading before class each day.}
+
+\item {\bf Availability of Help in the MLC:}
+The Math Learning Center (MLC) is open Monday - Thursday 9:00 a.m. - 7:00 p.m. and Friday 9:00 a.m. - 3:00 p.m.  It is staffed with statistics tutors during these hours. {\bf You will NOT be allowed into the MLC unless you have your CAT card with you!}
+
+\item {\bf Disruptive Behavior:}  Will not be tolerated!  Montana State University expects all students to conduct themselves as honest, responsible and law-abiding members of the academic community and to respect the rights of other students, members of the faculty and staff and the public to use, enjoy and participate in the University programs and facilities.  For additional information reference \verb+www2.montana.edu/policy/student_conduct/cg600.html+
+
+\item {\bf Math Sciences Departmental Policies:}
+  \begin{itemize}
+  \item The math office cannot accept assignments and cannot answer
+    questions about grades.
+  \item If you want to see your final exam, you need to provide the
+    instructor with a self-addressed stamped envelope (6.5 by 9.5 in
+    or bigger) before the scheduled final exam time.
+  \end{itemize}
+
+\item {\bf Behavioral Expectations:} Montana State University expects all students to conduct themselves as
+honest, responsible and law-abiding members of the academic community
+and to respect the rights of other students, members of the faculty
+and staff and the public.
+
+\item {\bf Collaboration:} University policy states that, unless otherwise specified, students
+may not collaborate on graded material.  Any exceptions to this policy
+will be stated explicitly for individual assignments.  If you have any
+questions about the limits of collaboration, you are expected to ask
+for clarification.
+
+
+\item {\bf Plagiarism:} Paraphrasing or quoting another's work without citing the source is a form of academic misconduct.  Even inadvertent or unintentional misuse or appropriation of another's work (such as relying heavily on source
+material that is not expressly acknowledged) is considered plagiarism. If you have any questions about using and citing sources, you are expected to ask for clarification.
+
+\item {\bf Academic Misconduct:} Section 420 of the Student Conduct Code describes academic misconduct
+as including but not limited to plagiarism, cheating, multiple
+submissions, or facilitating others' misconduct.  Possible sanctions
+for academic misconduct range from an oral reprimand to expulsion from
+the university.
+
+Section 430 of the Student Code allows the instructor to impose the
+following sanctions for academic misconduct: oral reprimand; written
+reprimand; an assignment to repeat the work or an alternate
+assignment; a lower or failing grade on the particular assignment or
+test; or a lower grade or failing grade in the course.  More serious
+sanctions require a Conduct Board hearing.
+
+
+\item {\bf Disabilities:} If you have a documented disability for which you are or may be
+requesting an accommodation(s), please  contact your
+instructor and Disabled Student Services as soon as possible.
+
+%\item Email Policy\\
+%We expect that you will check your university email at least every \underbar{\hspace{.3in}} days.
+
+\item {\bf Academic Expectations:} Section 310.00 in the MSU Conduct Guidelines states that students must:
+\begin{enumerate}
+  \item  be prompt and regular in attending classes;
+  \item  be well prepared for classes;
+  \item  submit required assignments in a timely manner;
+  \item  take exams when scheduled.  Exceptions:
+    \begin{itemize}
+    \item a conflict with an exam in another class
+    \item university-sponsored activities (athletes, field trips)
+    \item military obligations
+    \item illness
+    \item death or illness in the immediate family
+    \item other family emergency
+    \item emergency which is out of your control
+    \end{itemize}
+    Documentation will be required.  Work schedule is NOT
+    a valid excuse. Leaving early at the end of the semester is NOT a
+    valid excuse.
+  \item  act in a respectful manner toward other students and the
+    instructor and in a way that does not detract from the learning
+    experience; and
+  \item  make and keep appointments when necessary to meet with the instructor.
+\end{enumerate}
+  {\bf Cell phones must be turned off in class, and are not permitted during exams.}
+
+\item {\bf Student Educational Records:} 
+All records related to this course are confidential and will not be
+shared with anyone, including parents, without a signed, written
+release. Students have the right to access their educational records by
+appointment.  This information is protected by the Family Educational
+Rights and Privacy Act (FERPA).  For more information contact the Dean
+of Students office at 994-2826.
+
+\end{itemize}
+
+\noindent \emph{I reserve the right to make changes to the syllabus as needed and will make a note of such changes either in class or on D2L.}
+
+

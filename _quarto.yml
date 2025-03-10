@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "Christian Stratton"
+  navbar:
+    search: true
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Presentations
+        href: presentations.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Teaching materials
+        href: teaching_materials.qmd
+    tools:
+      - icon: github
+        href: https://github.com/stratton-christian
+      - icon: envelope-at
+        href: mailto:cstratton@middlebury.edu
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+
+
+# quarto render
+# quarto publish gh-pages

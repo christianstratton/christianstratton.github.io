@@ -1,0 +1,26 @@
+---
+title: "Teaching materials"
+editor: source
+---
+
+## Middlebury College
+
+### Spring 2025
+
+[STAT 0116: Introduction to Statistical Science](https://courses.middlebury.edu/system/files/2025-02/s25stat116_syllabus_topics.pdf)
+
+[STAT 0311: Statistical Inference](https://courses.middlebury.edu/system/files/2025-02/syllabus_topics.pdf)
+
+### Fall 2024
+
+[STAT 0116: Introduction to Statistical Science](https://courses.middlebury.edu/system/files/2024-09/syllabus_stratton_stat116.pdf)
+
+[STAT 0219: Time Series Analysis](https://courses.middlebury.edu/system/files/2024-09/syllabus_stratton_stat219.pdf)
+
+## Montana State University
+
+[STAT 217: Intermediate Statistical Analyses](internal_docs/syllabus_stat217/syllabus_stat217.qmd)
+
+## Other resources
+
+[Web application for teaching statistical power](https://christianstratton.shinyapps.io/PowerApp/)

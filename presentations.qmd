@@ -1,0 +1,23 @@
+---
+title: "Presentations"
+---
+
+**Stratton, C.**, K.M. Irvine, K.M. Banner, E. Almberg, D. Bachen, and K. Smucker. "Joint spatial modeling of ecological response and disease processes improves estimator precision." 2023. Talk given at the Joint Statistical Meetings. Toronto, Ontario, Canada.
+
+**Stratton, C.**, K.M. Irvine, K.M. Banner, E. Almberg, D. Bachen, and K. Smucker. "A statistical framework for integrating White-nose syndrome surveillance data and acoustic population monitoring data."2023. Talk given to the U.S. Geological Survey Disease Coordination Group. Virtual.
+
+**Stratton, C.**, K.M. Irvine, K.M. Banner, E. Almberg, D. Bachen, and K. Smucker. "Leveraging WNS surveillance and NABat data improves estimation of disease spread and bat activity." 2023. Poster presented at the Whitenose Syndrome National Meeting. Palm Springs, California, USA.
+
+**Stratton, C.**, K.M. Irvine, E. Almberg, K. Smucker, and J. Gude. "Joint spatial modeling of relative activity and disease processes." 2022. Poster presented at the ENVR 2022 Workshop: Environmental and Ecological Statistical Research and Applications with Societal Impacts. Provo, Utah, USA.
+
+**Stratton, C.**, K.M. Irvine, E. Almberg, K. Smucker, and J. Gude. "Bats & Stats: Assessing Impacts of White-nose Syndrome on Western Bat Species." 2022. Talk given at the Northern Rocky Mountain Science Center. Bozeman, Montana, USA.
+
+**Stratton, C.**, A. Hoegh, K.M. Irvine, K.M. Banner. 2021. "Clustering and ordination with Dirichlet process mixture models." Invited talk given at the Joint Statistical Meetings. Virtual.
+
+**Stratton, C.**, J.L. Green. 2021. "Beyond normal: Understanding power through `R` Shiny." Poster presented at the United States Conference on Teaching Statistics. Virtual.
+
+**Stratton, C.**, A. Hoegh, and J.L. Green. 2018. "Predicting pitch type: A case study in Bayesian hierarchical multinomial regression." Invited talk given at the Joint Statistical Meetings. Vancouver, Canada.
+
+**Stratton, C.**, A. Hoegh, and J.L. Green. 2018. "Unraveling Kershaw's dominance." Poster presented at The Cascadia Symposium on Statistics in Sports. Vancouver, Canada.
+
+**Stratton, C.** and J.L. Green. 2018. "The power of technology: A Shiny applet assisted approach to teaching statistical power." Poster presented at the Electronic Conference on Teaching Statistics. Virtual.

@@ -1,0 +1,618 @@
+\documentclass[a4paper]{article}
+\usepackage{fullpage}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{textcomp}
+\usepackage{fontawesome5}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{hyperref}
+\textheight=10in
+\pagestyle{empty}
+\raggedright
+
+\def\bull{\vrule height 0.8ex width .7ex depth -.1ex}
+
+% DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\area} [2] {
+	\vspace*{-9pt}
+	\begin{verse}
+		\textbf{#1}   #2
+	\end{verse}
+}
+\newcommand{\lineunder} {
+	\vspace*{-8pt} \\
+	\hspace*{-18pt} \hrulefill \\
+}
+\newcommand{\header} [1] {
+	{\hspace*{-18pt}\vspace*{6pt} \textcolor{Cerulean}{\textsc{#1}}}
+	\vspace*{-6pt} \textcolor{Cerulean}{\lineunder}
+}
+\newcommand{\subheader} [1] {
+	{\hspace*{-9pt}\vspace*{6pt} \textcolor{Cerulean}{\textsc{#1}}}
+	\vspace*{-6pt}
+}
+\newcommand{\employer} [3] {
+	{ \textbf{#1} (#2)\\ \underline{\textbf{\emph{#3}}}\\  }
+}
+\newcommand{\contact} [3] {
+	\vspace*{-10pt}
+	\begin{center}
+		{\Huge \scshape {#1}}\\
+		#2 \\ #3
+	\end{center}
+	\vspace*{-8pt}
+}
+
+
+\begin{document}
+\vspace*{-40pt}
+\vspace*{-10pt}
+\begin{center}
+{\Huge \scshape {Christian A. Stratton}} \\
+\faMapMarker \ Bozeman, MT, 59715 \\
+\faEnvelope \ \href{mailto:christianstratton@montana.edu}{christianstratton@montana.edu} \\ 
+\faGlobe \ \href{https://strattonch.github.io/christianstratton/}{https://strattonch.github.io/christianstratton/} \\
+\faPhone \ (406) 261-9426 \\ 
+\end{center}
+\vspace*{2mm}
+
+\header{Summary}
+\vspace*{2mm}
+
+Assistant professor of statistics with consulting, research, and
+teaching experience. Strong analytical skills pertaining to spatial
+statistics, Bayesian computation, and analysis of ecological data types.
+Research interests include: Bayesian computation, spatial statistics,
+species distribution modeling, modeling of wildlife disease, data
+visualization, and teaching techniques for data science.
+
+\vspace*{2mm}
+\header{Education}
+\vspace*{2mm}
+
+\textbf{Montana State University}\hfill Bozeman, MT
+
+Doctor of Philosophy in Statistics \hfill May 2022
+
+Dissertation:
+\textit{Bayesian Hierarchical Latent Variable Models for Ecological Data Types}
+
+Advisors: Dr.~Andrew Hoegh and Dr.~Jennifer Green
+
+\vspace{2mm}
+
+\textbf{Montana State University} \hfill Bozeman, MT
+
+Master of Science in Statistics \hfill May 2018
+
+\vspace{2mm}
+
+\textbf{Montana State University} \hfill Bozeman, MT
+
+Bachelor of Science with Honors in Mathematics (focus: Statistics)
+\hfill December 2016
+
+\vspace{2mm}
+
+\header{Peer-reviewed Journal Articles}
+\vspace*{2mm}
+
+\subheader{Published}
+\vspace*{2mm}
+
+\textbf{10) Stratton, C.}, A. Hoegh, T.J. Rodhouse, J.L. Green, K.M.
+Banner, K.M. Irvine.
+2024.\href{https://doi.org/10.1111/2041-210X.14389}{Clustering and
+unconstrained ordination with Dirichlet process mixture models.}
+\textit{Methods in Ecology and Evolution}. \vspace*{2mm}
+
+\textbf{9) Stratton, C.} K.M Irvine, K.M. Banner, E.S. Almberg, D.
+Bachen, and K. Smucker. 2024.
+\href{https://doi.org/10.1007/s13253-023-00593-8}{``Joint spatial
+modeling bridges the gap between disparate disease surveillance and
+population monitoring efforts informing conservation of at-risk bat
+species.''}.
+\textit{Journal of Agricultural, Biological, and Environmental Statistics}.
+\vspace*{2mm}
+
+\textbf{8) Stratton, C.}, K.M. Irvine, K.M. Banner, W.J. Wright, C.
+Lausen, J. Rae. 2022.
+\href{https://doi.org/10.1111/2041-210X.13831}{``Coupling validation
+effort with \emph{in situ} bioacoustic data improves estimating relative
+activity and occupancy for multiple species with cross-species
+misclassifications.''} \textit{Methods in Ecology and Evolution}, 13(6),
+p.~1288 -- 1303. \vspace*{2mm}
+
+\textbf{7)} Khalighifar, A., B.S. Gotthold, E. Adams, J. Barnett, L.O.
+Beard, E.R. Britzke, P.A. Burger, K. Chase, Z. Cordes, P.M. Cryan, E.
+Ferrall, C.T. Fill, S.E. Gibson, G.S. Haulton, K.M. Irvine, L.S. Katz,
+W.L. Kendall, C.A. Long, O.M. Aodha, T. McBurney, S. McCarthy, M.W.
+McKown, J. O'Keefe, L.D. Patterson, K.A. Pitcher, M. Rustand, J.L.
+Segers, K. Seppanen, J.L. Simers, \textbf{C. Stratton}, B.R. Straw, T.J.
+Weller, and B.E. Reichert. 2022.
+\href{https://doi.org/10.1111/1365-2664.14280}{``\emph{NABat ML}:
+Utilizing deep learning to enable crowdsourced development of automated,
+scalable solutions for documenting North American bat populations.''}
+\textit{Journal of Applied Ecology}, 56(11), p.~2849 -- 2862.
+\vspace*{2mm}
+
+\textbf{6)} Irvine, K.M., K.M. Banner, \textbf{C. Stratton}, W.M. Ford,
+and B.E. Reichert. 2022.
+\href{https://doi.org/10.1002/ecs2.4142}{``Statistical assessment on
+determining local presence of rare bat species.''} \textit{Ecosphere},
+13(6), p.~e4142. \vspace*{2mm}
+
+\textbf{5) Stratton, C.}, J.L. Green, and A. Hoegh. 2021.
+\href{https://doi.org/10.5070/T513146468}{``Not just normal: Exploring
+power with Shiny apps.''}
+\textit{Technology Innovations in Statistics Education}, 13(1), p.~1 --
+37. \vspace*{2mm}
+
+\textbf{4)} Sepulveda, A.J., A. Hoegh, J.A. Gage, S.L Caldwell-Eldridge,
+J.M. Birch, \textbf{C. Stratton}, P.R. Hutchins, E.P. Barnhart. 2021.
+\href{https://doi.org/10.3389/fevo.2021.620715}{``Integrating
+environmental DNA results with diverse data sets to improve
+biosurveillance of river health.''}
+\textit{Frontiers in Ecology and Evolution}, 9, p.~1 -- 13.
+\vspace*{2mm}
+
+\textbf{3) Stratton, C.}, A.J. Sepulveda, and A. Hoegh. 2020.
+\href{https://doi.org/10.1111/2041-210X.13442}{``\texttt{msocc:} Fit and
+analyze computationally efficient multi-scale occupancy models in
+\texttt{R}.''} \textit{Methods in Ecology and Evolution}, 11(9), p.~1113
+-- 1120. \vspace*{2mm}
+
+\textbf{2)} Sepulveda, A. J., C. Schmidt, J. Amberg, P. Hutchins,
+\textbf{C. Stratton}, C. Mebane, M. B. Laramie, and D. S. Pilliod. 2019.
+\href{https://doi.org/10.1002/ecs2.2843}{``Adding invasive species
+biosurveillance to the U.S. Geological Survey streamgage network.''}
+\textit{Ecosphere}, 10(8), p.~1 -- 17. \vspace*{2mm}
+
+\textbf{1)} Hoegh, A., K. Flagg, and \textbf{C. Stratton}. 2018.
+Contributed comment on Article by Bradley, Holan, and Wikle
+\href{https://eds.p.ebscohost.com/abstract?site=eds&scope=site&jrnl=19360975&AN=138950462&h=fupOc1pyeH8dv67mdPoRzhYvo96LS\%2bzCYNHIjAcMPojnVBydkua\%2fXFU6RanU78MDh8WNMlzPVI\%2fBxvaUiWvg\%2bw\%3d\%3d&crl=c&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx\%3fdirect\%3dtrue\%26profile\%3dehost\%26scope\%3dsite\%26authtype\%3dcrawler\%26jrnl\%3d19360975\%26AN\%3d138950462}{Invited
+commentary on ``Computationally efficient multivariate spatio-temporal
+models for high-dimensional count-valued data'' by Jonathan R. Bradley,
+Scott H. Holan, and Christopher K. Wikle.}
+\textit{Bayesian Data Analysis}, 13(1), p.~253 -- 310. \vspace*{2mm}
+
+\subheader{In Review}
+\vspace*{2mm}
+
+Oram, J., K.M. Banner, \textbf{Stratton, C.}, Andrew Hoegh, and K.M.
+Irvine. ``Leveraging the observed-data likelihood improves using machine
+learning labels in a Bayesian hierarchical model for bioacoustic data.''
+In review in \textit{Annals of Applied Statistics.} \vspace*{2mm}
+
+\header{Peer-reviewed Technical Reports}
+\vspace*{2mm}
+
+\textbf{8) Stratton, C.}, K.M. Banner, and K.M. Irvine. 2023.
+\href{https://code.usgs.gov/usgs/norock/irvine_k/spatial-misalignment-application}{``Code
+vignette for application of the spatially misaligned regression model
+described in `Joint spatial modeling bridges the gap between disparate
+disease surveillance and population monitoring efforts informing
+conservation of at-risk bat species,' U.S. Geological Survey software
+release''} \vspace*{2mm}
+
+\textbf{7)} Udell, B.J., \textbf{C. Stratton}, B.R. Straw, K.M. Irvine,
+J.D. Reichard, S.M. Gaulke, J.T.H. Coleman, F. Tousley, R.D. Inman, A.N.
+Schuhmann, R. Shively, and B.E. Reichert. 2023.
+\href{https://doi.org/10.5066/P9MV37I7}{``North American Bat Monitoring
+Program (NABat) Integrated Summer Species Distribution Model: Predicted
+Tricolored Bat Occupancy Probabilities: U.S. Geological Survey data
+release.''} \vspace*{2mm}
+
+\textbf{6) Stratton, C.}, B.R. Straw, J.H. Cox, K.M. Irvine, F.C.
+Tousley, and B.E. Reichert. 2023.
+\href{https://doi.org/10.5066/P9H8NEOY}{``Attributed North American
+Grid-Based Offshore Sampling Frames: U.S. Geological Survey data
+release.''} \vspace*{2mm}
+
+\textbf{5) Stratton, C.}, K.M. Irvine. 2022. Summertime analysis
+statistical report for Little Brown, Northern Long-eared, and Tricolored
+bat species status assessment. Chapter B in Straw, B.R, J. A. Martin,
+J.D Reichard, and B.E Reichert, editors.
+\href{https://doi.org/10.7944/P9B4RWEU}{``Analytical assessments in
+support of the U.S. Fish and Wildlife Service 3-Bat species status
+assessment. Cooperator report prepared in cooperation with the U.S.
+Geological Survey, United States Fish and Wildlife Service and Bat
+Conservation International.''} \vspace*{2mm}
+
+\textbf{4)} Udell, B.J., B.R. Straw, T.L. Cheng, K. Enns, W.F. Frick, B.
+Gotthold, K.M. Irvine, C. Lausen, S. Loeb, J.D. Reichard, T.J. Rodhouse,
+D. Smith, \textbf{C. Stratton}, W.E. Thogmartin, and B.E. Reichert.
+2022. \href{https://doi.org/10.5066/P92JGACB}{``Status and trends of
+North American bats: Summer occupancy analysis 2010-2019.''} U.S. Fish
+and Wildlife Service. \vspace*{2mm}
+
+\textbf{3)} Irvine, K.M., and \textbf{C. Stratton}. 2021.
+\href{https://doi.org/10.5066/P9XZ8D6N.}{``Rangewide summertime model
+predictions for three bat species (\textit{Myotis lucifigus},
+\textit{Myotis septentrionalis}, and \textit{Perimyotis subflavus}) from
+acoustic and mist net data 2010 to 2019: US Geological Survey data
+release.''} \vspace*{2mm}
+
+\textbf{2)} Wessel, S.A., L. Jones, E. Kramer, \textbf{C. Stratton}, L.
+Shoemaker, and D. Laughlin. 2020.
+\href{https://journals.uwyo.edu/index.php/uwnpsrc/article/view/6791/6301}{``Predictability
+and stability of sagebrush-steppe restoration in a changing climate.''}
+National Park Service Annual Report Vol. 43. \vspace*{2mm}
+
+\textbf{1) Stratton, C.}, A. Hoegh, K. M. Irvine, K. Legg, K. McCloskey,
+E. Shanahan, M. Tercek, and D. Thoma. 2019.
+\href{https://irma.nps.gov/DataStore/DownloadFile/631136}{``Assessing
+spatial and temporal patterns in sagebrush steppe vegetation
+communities, 2012-2018: Grand Teton National Park.''} Natural Resource
+Report NPS/GRYN/NRR-2019/2020. National Park Service, Fort Collins,
+Colorado. \vspace*{2mm}
+
+\header{Presentations}
+\vspace*{2mm}
+
+\textbf{11) Stratton, C.}, K.M. Irvine, K.M. Banner, E. Almberg, D.
+Bachen, and K. Smucker. September 2023. ``Joint spatial modeling bridges
+the gap between disparate disease surveillance and population monitoring
+efforts informing conservation of at-risk bat species'' Invited talk
+given at the MT Chapter of the ASA annual meeting. Bozeman, MT, USA.
+\vspace*{2mm}
+
+\textbf{10) Stratton, C.}, K.M. Irvine, K.M. Banner, E. Almberg, D.
+Bachen, and K. Smucker. August 2023. ``Joint spatial modeling of
+ecological response and disease processes improves estimator
+precision.'' Talk given at the Joint Statistical Meetings. Toronto,
+Ontario, Canada. \vspace*{2mm}
+
+\textbf{9) Stratton, C.}, K.M. Irvine, K.M. Banner, E. Almberg, D.
+Bachen, and K. Smucker. June 2023. ``A statistical framework for
+integrating White-nose syndrome surveillance data and acoustic
+population monitoring data.'' Talk given to the U.S. Geological Survey
+Disease Coordination Group. Virtual. \vspace*{2mm}
+
+\textbf{8) Stratton, C.}, K.M. Irvine, K.M. Banner, E. Almberg, D.
+Bachen, and K. Smucker. June 2023. ``Leveraging WNS surveillance and
+NABat data improves estimation of disease spread and bat activity.''
+Poster presented at the Whitenose Syndrome National Meeting. Palm
+Springs, California, USA. \vspace*{2mm}
+
+\textbf{7) Stratton, C.}, K.M. Irvine, E. Almberg, K. Smucker, and J.
+Gude. October 2022. ``Joint spatial modeling of relative activity and
+disease processes.'' Poster presented at the ENVR 2022 Workshop:
+Environmental and Ecological Statistical Research and Applications with
+Societal Impacts. Provo, Utah, USA. \vspace*{2mm}
+
+\textbf{6) Stratton, C.}, K.M. Irvine, E. Almberg, K. Smucker, and J.
+Gude. October 2022. ``Bats \& Stats: Assessing Impacts of White-nose
+Syndrome on Western Bat Species.'' Talk given at the Northern Rocky
+Mountain Science Center. Bozeman, Montana, USA. \vspace*{2mm}
+
+\textbf{5) Stratton, C.}, A. Hoegh, K.M. Irvine, K.M. Banner. August
+2021. ``Clustering and ordination with Dirichlet process mixture
+models.'' Invited talk given at the Joint Statistical Meetings. Virtual.
+\vspace*{2mm}
+
+\textbf{4) Stratton, C.}, J.L. Green. June 2021. ``Beyond normal:
+Understanding power through \texttt{R} Shiny.'' Poster presented at the
+United States Conference on Teaching Statistics. Virtual. \vspace*{2mm}
+
+\textbf{3) Stratton, C.}, A. Hoegh, and J.L. Green. August 2018.
+``Predicting pitch type: A case study in Bayesian hierarchical
+multinomial regression.'' Invited talk given at the Joint Statistical
+Meetings. Vancouver, Canada. \vspace*{2mm}
+
+\textbf{2) Stratton, C.}, A. Hoegh, and J.L. Green. August 2018.
+``Unraveling Kershaw's dominance.'' Poster presented at The Cascadia
+Symposium on Statistics in Sports. Vancouver, Canada. \vspace*{2mm}
+
+\textbf{1) Stratton, C.} and J.L. Green. May 2018. ``The power of
+technology: A Shiny applet assisted approach to teaching statistical
+power.'' Poster presented at the Electronic Conference on Teaching
+Statistics. Virtual. \vspace*{2mm}
+
+\header{Peer-reviewed Science Software}
+\vspace*{2mm}
+
+\textbf{Stratton, C.}, A. Hoegh, A. Sepulveda, and K.M. Banner. 2020.
+``\texttt{msocc}.'' \texttt{R} package to support computationally
+efficient implementation of Bayesian multi-scale occupancy models.
+\vspace*{2mm}
+
+\header{Research and Collaboration Experience}
+\vspace*{2mm}
+
+\textbf{Middlebury College} \hfill Middlebury, VT
+
+\textit{Assistant Professor of Statistics} \hfill July 2024 - Present
+
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+    \item Developed new courses in statistics
+    \item Mentored and advised undergraduate students
+    \item Led collaborative research projects with faculty and students
+\end{itemize}
+
+\textbf{Montana State University} \hfill Bozeman, MT
+
+\textit{Post-doctoral researcher} \hfill July 2022 - May 2024
+
+Advisors: Dr.~Kathryn Irvine (USGS) and Dr.~Katharine Banner (MSU)
+
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+    \item Developed statistical modeling frameworks for ecological data structures
+    \item Authored multiple peer-reviewed journal articles and technical reports
+    \item Communicated complicated statistical models to domain experts from multiple agencies
+    \item Co-mentored a graduate-level statistician in support of research and analyses
+\end{itemize}
+
+\textbf{U.S. Geological Survey} \hfill Bozeman, MT
+
+\textit{Student contractor} \hfill August 2020 - July 2022
+
+Supervisor: Dr.~Kathryn Irvine (USGS)
+
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+   \item Provided analyses for Endangered Species Act listing decisions
+   \item Authored peer-review journal articles and technical reports
+   \item Collaborated with scientists from multiple domains 
+\end{itemize}
+
+\textbf{Montana State University} \hfill Bozeman, MT
+
+\textit{Graduate Research Assistant} \hfill January 2019 - August 2020
+
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+   \item Resolved a wide scope of ecological problems using various techniques
+   \item Collaborated and communicated with domain experts in ecology and land-resource management
+   \item Developed models and tools to aid collaborators
+   \item Authored papers, web applications, and R packages
+\end{itemize}
+
+\textbf{Montana State University} \hfill Bozeman, MT
+
+\textit{Statistical Consultant} \hfill August 2017 - May 2018
+
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+   \item Communicated with clients
+   \item Identified solutions to a wide scope of problems
+   \item Successfully collaborated across departments to resolve problems
+\end{itemize}
+
+\header{Teaching Experience}
+\vspace*{2mm}
+
+\textbf{Instructor of Record} \hfill Middlebury, VT
+
+\emph{STAT 0311: Statistical Inference} \hfill S25
+
+Lead instructor responsibilities included: developing course materials,
+facilitating active learning environments, holding office hours for
+students. \vspace*{2mm}
+
+\textbf{Instructor of Record} \hfill Middlebury, VT
+
+\emph{STAT 0116: Introduction to Statistical Science} \hfill S25
+
+Lead instructor responsibilities included: developing course materials,
+facilitating active learning environments, holding office hours for
+students. \vspace*{2mm}
+
+\textbf{Instructor of Record} \hfill Middlebury, VT
+
+\emph{STAT 0219: Time Series Analysis} \hfill F24
+
+Lead instructor responsibilities included: developing course materials,
+facilitating active learning environments, holding office hours for
+students. \vspace*{2mm}
+
+\textbf{Instructor of Record} \hfill Middlebury, VT
+
+\emph{STAT 0116: Introduction to Statistical Science} \hfill F24
+
+Lead instructor responsibilities included: developing course materials,
+facilitating active learning environments, holding office hours for
+students. \vspace*{2mm}
+
+\textbf{Guest Lecturer} \hfill Bozeman, MT
+
+\emph{STAT 408: Statistical Computing and Graphics Analysis} \hfill S22
+
+Provided guest lectures on data visualization with the
+\texttt{tidyverse} and implementing version control software in
+statistical analyses to undergraduate-level statistics students.
+\vspace*{2mm}
+
+\textbf{Supervisor} \hfill Bozeman, MT
+
+\emph{Math and Stat Learning Center} \hfill F19
+
+Supervised undergraduate and graduate tutors in the Mathematics and
+Statistics Learning Center. Responsibilities included coordinating
+monthly meeting, proposing and implementing logistical improvements,
+instructing tutors on how to effectively communicate mathematics and
+statistics, and tutoring undergraduate students in a variety of courses,
+including Calculus I-III, Linear Algebra, Introduction to Statistics,
+and Intermediate Statistical Concepts.\vspace*{2mm}
+
+\textbf{Guest Lecturer} \hfill Bozeman, MT
+
+\emph{STAT 402/502: Intermediate Mathematical Statistics} \hfill S19
+
+Provided guest lecture on interpreting statistical power to
+undergraduate-level and graduate-level mathematical statistics students
+using \texttt{R\ Shiny}. \vspace*{2mm}
+
+\textbf{Graduate Teaching Assistant} \hfill Bozeman, MT
+
+\emph{STAT 411/511: Methods for Data Analysis I} \hfill S19
+
+Teaching assistant responsibilities included: grading homeworks and
+exams, writing and leading interactive lab assignments, and providing
+intermittent lectures on coding in \texttt{R} with an emphasis on data
+visualization. \vspace*{2mm}
+
+\textbf{Instructor of Record} \hfill Bozeman, MT
+
+\emph{STAT 217: Intermediate Statistical Concepts} \hfill F18
+
+Lead instructor responsibilities included: leading lectures, writing
+lecture notes, writing and grading homeworks and exams, writing lab
+assignments, and supervising teaching assistants. \vspace*{2mm}
+
+\textbf{Instructor of Record} \hfill Bozeman, MT
+
+\emph{STAT 216: Introduction to Statistics} \hfill S17, F17, S18
+
+Lead instructor responsibilities included: implementing active learning
+teaching strategies in class, planning and preparing course materials,
+holding office hours for students. \vspace*{2mm}
+
+\textbf{Undergraduate Teaching Assistant} \hfill Bozeman, MT
+
+\emph{STAT 216: Introduction to Statistics} \hfill F15, S16, F16
+
+Teaching responsibilities included: facilitating discussion during
+in-class activities and holding office hours for students. \vspace*{2mm}
+
+\textbf{Tutor} \hfill Bozeman, MT
+
+\emph{Math and Stat Learning Center} \hfill F14, S15, F15, S16, F16
+
+Tutored undergraduate students in the Mathematics and Statistics
+Learning Center in a wide variety of courses, including: College
+Algebra, Calculus I-III, Linear Algebra, Introduction to Statistics, and
+Intermediate Statistical Concepts.\vspace*{2mm}
+
+\header{Service}
+
+\textbf{Montana Chapter of the American Statistical Association}
+\hfill Bozeman, MT
+
+\emph{Chapter Secretary and Council of Chapters Representative}
+\hfill Sept 2022 - Present
+
+Responsibilities included facilitating coordination of annual meetings,
+keeping meeting notes, and attending the Council of Chapters session at
+the Joint Statistical Meetings. \vspace*{2mm}
+
+\textbf{Bozeman Environmental and Ecological Statistics (BEES)}
+\hfill Bozeman, MT
+
+\emph{Co-President} \hfill Sept 2022 - Present
+
+The BEES research group is a group focused on mentoring graduate
+students with interest in statistical research motivated by
+environmental and ecological applications. Responsibilities as
+co-president include coordinating bi-weekly meetings, mentoring graduate
+students, providing papers for literature review sessions, maintaining
+the group website, and coordinating invited speaker presentations.
+\vspace*{2mm}
+
+\textbf{Annals of Applied Statistics}
+
+\emph{Referee} \hfill 2023
+
+Refereed papers for the \emph{Annals of Applied Statistics} journal.
+\vspace*{2mm}
+
+\textbf{Montana State University STEAM Day} \hfill Bozeman, MT
+
+\emph{Workshop Presenter} \hfill April 2023
+
+MSU STEAM Day is a one-day conference that includes hands-on workshops
+in the STEAM fields of science, technology, engineering, art and math
+for girls in grades six, seven, and eight. Responsibilities included
+presenting an interactive activity introducing statistical inference
+using the dice game Pass the Pigs. \vspace*{2mm}
+
+\textbf{DataFest} \hfill Bozeman, MT
+
+\emph{Volunteer judge} \hfill April 2019, April 2022
+
+Volunteer responsibilities included providing guidance to
+undergraduate-level and graduate-level students competing in DataFest
+competition. \vspace*{2mm}
+
+\header{Awards}
+\vspace*{2mm}
+
+\textbf{Three Minute Thesis Competition Finalist} \hfill Bozeman, MT
+
+Finalist for the Three Minute Thesis competition \hfill February 2020
+
+\vspace*{2mm}
+
+\textbf{Dr. William A. Stannard Award for Excellence} \hfill Bozeman, MT
+
+Recognition of outstanding graduate student teaching \hfill May 2018
+
+\vspace*{2mm}
+
+\textbf{Outstanding Graduate Student Award} \hfill Bozeman, MT
+
+Recognition of superior academic achievement among graduate students
+\hfill May 2017
+
+\vspace*{2mm}
+
+\textbf{John L. Magaret Math/Science Scholarship} \hfill Bozeman, MT
+
+Recipient of scholarship for outstanding academic achievement
+\hfill January 2017
+
+\vspace*{2mm}
+
+\textbf{Milton-Chauner Math Scholarship} \hfill Bozeman, MT
+
+Recipient of scholarship for outstanding academic achievement
+\hfill August 2016
+
+\vspace*{2mm}
+
+\textbf{Outstanding Undergraduate Student Award} \hfill Bozeman, MT
+
+Recognition of superior academic achievement among undergraduate
+students \hfill May 2016
+
+\vspace*{2mm}
+
+\textbf{Outstanding Scholar Award} \hfill Bozeman, MT
+
+Recognition of superior academic performance \hfill May 2016
+
+\vspace*{2mm}
+
+\textbf{Montana State University System Award} \hfill Bozeman, MT
+
+Scholarship for outstanding academic performance \hfill December 2015
+
+\vspace*{2mm}
+
+\textbf{Phi Kappa Phi} \hfill Bozeman, MT
+
+Member of Phi Kappa Phi, a national multi-disciplinary honor society
+\hfill March 2015
+
+\vspace*{2mm}
+
+\textbf{Pi Mu Epsilon} \hfill Bozeman, MT
+
+Member of Pi Mu Epsilon, a national mathematics honor society
+\hfill December 2014
+
+\vspace*{2mm}
+
+\header{Skills}
+\vspace*{2mm}
+\begin{tabular}{ l l }
+  Statistical computing languages:  & R, Julia, SAS \\
+    Other programming languages:         &  HTML, Markdown, Quarto, R Shiny, Tableau \\
+  Probabilistic programming languages:         & BUGS, JAGS, NIMBLE, Stan \\
+    Database management systems:         & SQL, SQLite, Microsoft Excel \\
+    Operating systems:       & Windows, Mac OS \\
+\end{tabular}
+\vspace*{2mm}
+\end{document}
