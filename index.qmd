@@ -40,5 +40,5 @@ When not working on projects in `R` or `Julia`, I am probably out on the river l
 
 ### Contact
 
-For potential collaboration or inquiries from students, please contact me at [cstratton@middlebury.edu](mailto:cstratton@middlebury.edu). For updates on Bozeman Ecological and Environmental Statistics group events, please visit the group [website](https://bozemanenvrstat.github.io/).
+For potential collaboration or inquiries from students, please contact me at [cstratton@middlebury.edu](mailto:cstratton@middlebury.edu). For updates on DataFest 2025, please visit [https://midd-datafest-2025.github.io/](https://midd-datafest-2025.github.io/).
 
