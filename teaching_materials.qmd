@@ -5,22 +5,38 @@ editor: source
 
 ## Middlebury College
 
+### Spring 2026
+
+[STAT 0219: Time Series Analysis Syllabus](internal_docs/s26_stat219/syllabus.pdf)
+
+[STAT 0711: Statistical Consulting Syllabus](internal_docs/s26_stat711/syllabus.pdf)
+
+### Fall 2025
+
+[STAT 0116: Introduction to Statistical Science Syllabus](internal_docs/f25_stat116/syllabus.pdf)
+
+[STAT 0218: Statistical Learning Syllabus](internal_docs/f25_stat218/syllabus.pdf)
+
 ### Spring 2025
 
-[STAT 0116: Introduction to Statistical Science](https://courses.middlebury.edu/system/files/2025-02/s25stat116_syllabus_topics.pdf)
+[STAT 0116: Introduction to Statistical Science Syllabus](internal_docs/s25_stat116/syllabus.pdf)
 
-[STAT 0311: Statistical Inference](https://courses.middlebury.edu/system/files/2025-02/syllabus_topics.pdf)
+[STAT 0311: Statistical Inference Syllabus](internal_docs/s25_stat311/syllabus.pdf)
 
 ### Fall 2024
 
-[STAT 0116: Introduction to Statistical Science](https://courses.middlebury.edu/system/files/2024-09/syllabus_stratton_stat116.pdf)
+[STAT 0116: Introduction to Statistical Science Syllabus](internal_docs/f24_stat116/syllabus.pdf)
 
-[STAT 0219: Time Series Analysis](https://courses.middlebury.edu/system/files/2024-09/syllabus_stratton_stat219.pdf)
+[STAT 0219: Time Series Analysis Syllabus](internal_docs/f24_stat219/syllabus.pdf)
 
 ## Montana State University
 
-[STAT 217: Intermediate Statistical Analyses](internal_docs/syllabus_stat217/syllabus_stat217.qmd)
+[STAT 217: Intermediate Statistical Analyses Syllabus](internal_docs/syllabus_stat217/syllabus_stat217.qmd)
 
 ## Other resources
 
 [Web application for teaching statistical power](https://christianstratton.shinyapps.io/PowerApp/)
+
+[Web application exploring LRT for normal variance](https://strattonc.shinyapps.io/s2lrt/)
+
+[Web application demonstrating impact of ignoring serial correlation](https://strattonc.shinyapps.io/tsreg/)

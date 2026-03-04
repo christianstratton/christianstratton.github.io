@@ -13,8 +13,8 @@ editor: source
 \vspace*{-10pt}
 \begin{center}
 {\Huge \scshape {Christian A. Stratton}} \\
-\faMapMarker \ Bozeman, MT, 59715 \\
-\faEnvelope \ \href{mailto:christianstratton@montana.edu}{christianstratton@montana.edu} \\ 
+\faMapMarker \ Middlebury, VT, 05753 \\
+\faEnvelope \ \href{mailto:cstratton@middlebury.edu}{cstratton@middlebury.edu} \\ 
 \faGlobe \ \href{https://christianstratton.github.io/}{https://christianstratton.github.io/} \\
 \faPhone \ (406) 261-9426 \\ 
 \end{center}
@@ -25,7 +25,7 @@ editor: source
 \header{Summary}
 \vspace*{2mm}
 
-Assistant professor of statistics with consulting, research, and teaching experience. Strong analytical skills pertaining to spatial statistics, Bayesian computation, and analysis of ecological data types. Research interests include: Bayesian computation, spatial statistics, species distribution modeling, modeling of wildlife disease, data visualization, and teaching techniques for data science.
+Assistant professor of statistics with consulting, research, and teaching experience. Strong analytical skills pertaining to spatial statistics, Bayesian computation, and analysis of ecological data types. Research interests include: Bayesian computation, spatial statistics, species distribution modeling, modeling of wildlife disease, data visualization, and teaching techniques for statistics education.
 
 <!-- education -->
 
@@ -63,9 +63,13 @@ Bachelor of Science with Honors in Mathematics (focus: Statistics) \hfill Decemb
 \subheader{Published}
 \vspace*{2mm}
 
-\textbf{10) Stratton, C.}, A. Hoegh, T.J. Rodhouse, J.L. Green, K.M. Banner, K.M. Irvine. 2024.[Clustering and unconstrained ordination with Dirichlet process mixture models.](https://doi.org/10.1111/2041-210X.14389) \textit{Methods in Ecology and Evolution}. \vspace*{2mm}
+\textbf{12)} Oram, J.K., K.M. Banner, \textbf{C. Stratton}, A. Hoegh, and K.M. Irvine. 2025. ["Leveraging an observed-data likelihood improves the use of machine learning labels in a Bayesian hierarchical model for bioacoustic data."](https://doi.org/10.1214/25-AOAS2096) \textit{Annals of Applied Statistics}, 19(4) 2957 -- 2980. \vspace*{2mm}
 
-\textbf{9) Stratton, C.} K.M Irvine, K.M. Banner, E.S. Almberg, D. Bachen, and K. Smucker. 2024. ["Joint spatial modeling bridges the gap between disparate disease surveillance and population monitoring efforts informing conservation of at-risk bat species."](https://doi.org/10.1007/s13253-023-00593-8). \textit{Journal of Agricultural, Biological, and Environmental Statistics}. \vspace*{2mm}
+\textbf{11)} Udell, B.J., \textbf{C. Stratton}, K.M. Irvine, B.R. Straw, J.D. Reichard, S. Gaulke, J.T.H. Coleman, F.C. Tousley, A.N. Schuhmann, R.D. Inman, M. Turner, S. Nystrom, and B.E. Reichert. 2025. ["Integrated distribution modeling resolves asynchrony between bat population impacts and occupancy trends through latent abundance."](https://doi.org/10.1038/s42003-025-08238-x) \textit{Communication Biology}, 8(832), 1 -- 14. \vspace*{2mm}
+
+\textbf{10) Stratton, C.}, A. Hoegh, T.J. Rodhouse, J.L. Green, K.M. Banner, and K.M. Irvine. 2024. [Clustering and unconstrained ordination with Dirichlet process mixture models.](https://doi.org/10.1111/2041-210X.14389) \textit{Methods in Ecology and Evolution}, 15(9), 1720 -- 1732. \vspace*{2mm}
+
+\textbf{9) Stratton, C.}, K.M Irvine, K.M. Banner, E.S. Almberg, D. Bachen, and K. Smucker. 2024. ["Joint spatial modeling bridges the gap between disparate disease surveillance and population monitoring efforts informing conservation of at-risk bat species."](https://doi.org/10.1007/s13253-023-00593-8). \textit{Journal of Agricultural, Biological, and Environmental Statistics}, 30, p. 120 -- 145. \vspace*{2mm}
 
 \textbf{8) Stratton, C.}, K.M. Irvine, K.M. Banner, W.J. Wright, C. Lausen, J. Rae. 2022. ["Coupling validation effort with *in situ* bioacoustic data improves estimating relative activity and occupancy for multiple species with cross-species misclassifications."](https://doi.org/10.1111/2041-210X.13831) \textit{Methods in Ecology and Evolution}, 13(6), p. 1288 -- 1303. \vspace*{2mm}
 
@@ -86,14 +90,19 @@ Bachelor of Science with Honors in Mathematics (focus: Statistics) \hfill Decemb
 <!-- \subheader{Accepted} -->
 <!-- \vspace*{2mm} -->
 
-\subheader{In Review}
+\subheader{In Preparation}
 \vspace*{2mm}
 
-Oram, J., K.M. Banner, \textbf{Stratton, C.}, Andrew Hoegh, and K.M. Irvine. "Leveraging the observed-data likelihood improves using machine learning labels in a Bayesian hierarchical model for bioacoustic data." In review in \textit{Annals of Applied Statistics.} \vspace*{2mm}
+\textbf{Stratton, C.}, A. Krouse, A. Harmon, and A. Ryan. "Inferring invasive plant abundance from management treatment records using multi-species Bayesian hierarchical models." \vspace*{2mm}
+
+\textbf{Stratton, C.}, M. Winder, and A. Hoegh. "Learning from Messy Data: the Benefits of Student-Collected Data in the Classroom." \vspace*{2mm}
 
 <!-- peer-review tech reports -->
 
 \header{Peer-reviewed Technical Reports}
+\vspace*{2mm}
+
+\textbf{9)} Udell, B.J., \textbf{C. Stratton}, K.M. Irvine, B.R. Straw, J. Reichard, S. Gaulke, J.T. Coleman, F.C. Tousley, A.N. Schuhmann, R.D. Inman, M. Turner, S. Nystrom, B.E. Reichert. 2025. ["Supplemental Results and Code from North American Bat Monitoring Program (NABat) Integrated Species Distribution Model for Tricolored Bat"](https://ui.adsabs.harvard.edu/abs/2025usgs.data..744U/abstract)
 \vspace*{2mm}
 
 \textbf{8) Stratton, C.}, K.M. Banner, and K.M. Irvine. 2023. ["Code vignette for application of the spatially misaligned regression model described in 'Joint spatial modeling bridges the gap between disparate disease surveillance and population monitoring efforts informing conservation of at-risk bat species,' U.S. Geological Survey software release"](https://code.usgs.gov/usgs/norock/irvine_k/spatial-misalignment-application)
@@ -115,8 +124,28 @@ Oram, J., K.M. Banner, \textbf{Stratton, C.}, Andrew Hoegh, and K.M. Irvine. "Le
 
 <!-- presentations -->
 
+\newpage
+
 \header{Presentations}
 \vspace*{2mm}
+
+\textbf{20) Stratton, C.} July 2026. "Listening for disease: integrating acoustic and disease surveillance data to assess impacts of White-nose Syndrome on bats." Invited talk given during an Inspire Session at the Ecological Society of America Conference. Salt Lake City, UT, USA. \vspace*{2mm}
+
+\textbf{19) Stratton, C.} . July 2026. "Learning from Messy Data: the Benefits of Student-Collected Data in the Classroom." Contributed oral presentation given at the International Conference on Teaching Statistics. Brisbane, Queensland, AUS. \vspace*{2mm}
+
+\textbf{18) Stratton, C.} and A. Hoegh. July 2026. "Learning from Messy Data: the Benefits of Student-Collected Data in the Classroom." Contributed oral presentation given at the International Conference on Teaching Statistics. Brisbane, Queensland, AUS. \vspace*{2mm}
+
+\textbf{17) Stratton, C.} November 2025. "Statistical methodology for radio-telemetry data with connections to partial differential equations." Research presentation given to the Emerging Mathematics and Statistics Research Group. Middlebury, VT, USA. \vspace*{2mm}
+
+\textbf{16) Stratton, C.}, K.M. Irvine, K.M. Banner, E. Almberg, D. Bachen, and K. Smucker. October 2025. "A statistical assessment of the impact of White-nose Syndrome on bats in Montana." Research presentation given at Fall Faculty Forum. Middlebury, VT, USA. \vspace*{2mm}
+
+\textbf{15) Stratton, C.}, K.M. Irvine, K.M. Banner, E. Almberg, D. Bachen, and K. Smucker. June 2025. "Joint spatial modeling of bat activity and disease with computational considerations." Invited talk given at the Western North American Region of the International Biometric Society conference. Whistler, BC, CAN. \vspace*{2mm}
+
+\textbf{14) Stratton, C.}, K.M. Irvine, K.M. Banner, E. Almberg, D. Bachen, and K. Smucker. June 2025. "Joint spatial modeling of bat activity and disease with computational considerations." Invited talk given at the Western North American Region of the International Biometric Society conference. Whistler, BC, CAN. \vspace*{2mm}
+
+\textbf{13) Stratton, C.} April 2025. "Gaussian processes and Bayesian computation." Research presentation given to the Emerging Mathematics and Statistics Research Group. Middlebury, VT, USA. \vspace*{2mm}
+
+\textbf{12) Stratton, C.} October 2024. "Joint spatial models, Bayesian statistics, and MCMC estimation." Research presentation given to the Emerging Mathematics and Statistics Research Group. Middlebury, VT, USA. \vspace*{2mm}
 
 \textbf{11) Stratton, C.}, K.M. Irvine, K.M. Banner, E. Almberg, D. Bachen, and K. Smucker. September 2023. "Joint spatial modeling bridges the gap between disparate disease surveillance and population monitoring efforts informing conservation of at-risk bat species" Invited talk given at the MT Chapter of the ASA annual meeting. Bozeman, MT, USA. \vspace*{2mm}
 
@@ -144,6 +173,16 @@ Oram, J., K.M. Banner, \textbf{Stratton, C.}, Andrew Hoegh, and K.M. Irvine. "Le
 \vspace*{2mm}
 
 **Stratton, C.**, A. Hoegh, A. Sepulveda, and K.M. Banner. 2020. "`msocc`." `R` package to support computationally efficient implementation of Bayesian multi-scale occupancy models. \vspace*{2mm}
+
+\header{Grants and Funding}
+\vspace*{2mm}
+
+\subheader{Pending}
+\vspace*{2mm}
+
+\textbf{1)} Co-Investigator. "Collaborative Research: E-RISE: The Vermont PFAS Environmental Research Network (PERN)." National Science Foundation NSF25-522. August 2025. \vspace*{2mm}
+
+
 
 <!-- experience -->
 
@@ -218,31 +257,47 @@ Supervisor: Dr. Kathryn Irvine (USGS)
 
 **Instructor of Record** \hfill Middlebury, VT
 
-*STAT 0311: Statistical Inference* \hfill S25
+*STAT 0711: Statistical Consulting* \hfill S26
+\vspace*{2mm}
 
-Lead instructor responsibilities included: developing course materials, facilitating active learning environments, holding office hours for students.
+**Instructor of Record** \hfill Middlebury, VT
+
+*STAT 0500: Independent Study* \hfill S26
+\vspace*{2mm}
+
+**Instructor of Record** \hfill Middlebury, VT
+
+*STAT 0219: Time Series Analysis* \hfill S26
+\vspace*{2mm}
+
+**Instructor of Record** \hfill Middlebury, VT
+
+*STAT 0218: Statistical Learning* \hfill F25
+\vspace*{2mm}
+
+**Instructor of Record** \hfill Middlebury, VT
+
+*STAT 0116:  Introduction to Statistical Science* \hfill F25
+\vspace*{2mm}
+
+**Instructor of Record** \hfill Middlebury, VT
+
+*STAT 0311: Statistical Inference* \hfill S25
 \vspace*{2mm}
 
 **Instructor of Record** \hfill Middlebury, VT
 
 *STAT 0116: Introduction to Statistical Science* \hfill S25
-
-Lead instructor responsibilities included: developing course materials, facilitating active learning environments, holding office hours for students.
 \vspace*{2mm}
 
 **Instructor of Record** \hfill Middlebury, VT
 
 *STAT 0219: Time Series Analysis* \hfill F24
-
-Lead instructor responsibilities included: developing course materials, facilitating active learning environments, holding office hours for students.
 \vspace*{2mm}
-
 
 **Instructor of Record** \hfill Middlebury, VT
 
 *STAT 0116: Introduction to Statistical Science* \hfill F24
-
-Lead instructor responsibilities included: developing course materials, facilitating active learning environments, holding office hours for students.
 \vspace*{2mm}
 
 **Guest Lecturer** \hfill Bozeman, MT
@@ -303,16 +358,30 @@ Tutored undergraduate students in the Mathematics and Statistics Learning Center
 
 \header{Service}
 
+**Health Professions Committee** \hfill Middlebury, VT
+
+*Committee Member* \hfill August 2025 - Present
+
+I served on the Health Professions Committee, a committee charged with preparing Middlebury College alumni for application to medical school. Responsibilities included coordinating interviews with students, interviewing students, and providing written feedback.
+\vspace*{2mm}
+
+**DataFest** \hfill Middlebury, VT
+
+*Co-Organizer* \hfill April 2025 - Present
+
+I worked with the Statistics faculty to bring DataFest, an American Statistical Association sponsored data analysis competition, to Middlebury College in 2025 and 2026. Responsibilities included organizing the event, creating the event website, and serving as a mentor for students throughout the event.
+\vspace*{2mm}
+
 **Montana Chapter of the American Statistical Association** \hfill Bozeman, MT
 
-*Chapter Secretary and Council of Chapters Representative* \hfill Sept 2022 - Present
+*Chapter Secretary and Council of Chapters Representative* \hfill Sept 2022 - Aug 2024
 
 Responsibilities included facilitating coordination of annual meetings, keeping meeting notes, and attending the Council of Chapters session at the Joint Statistical Meetings. 
 \vspace*{2mm}
 
 **Bozeman Environmental and Ecological Statistics (BEES)** \hfill Bozeman, MT
 
-*Co-President* \hfill Sept 2022 - Present
+*Co-President* \hfill Sept 2022 - Aug 2024
 
 The BEES research group is a group focused on mentoring graduate students with interest in statistical research motivated by environmental and ecological applications. Responsibilities as co-president include coordinating bi-weekly meetings, mentoring graduate students, providing papers for literature review sessions, maintaining the group website, and coordinating invited speaker presentations.
 \vspace*{2mm}
@@ -402,16 +471,16 @@ Member of Pi Mu Epsilon, a national mathematics honor society \hfill December 20
 
 \vspace*{2mm}
 
-\header{Skills}
-\vspace*{2mm}
-\begin{tabular}{ l l }
-  Statistical computing languages:  & R, Julia, SAS \\
-	Other programming languages:         &  HTML, Markdown, Quarto, R Shiny, Tableau \\
-  Probabilistic programming languages:         & BUGS, JAGS, NIMBLE, Stan \\
-	Database management systems:         & SQL, SQLite, Microsoft Excel \\
-	Operating systems:       & Windows, Mac OS \\
-\end{tabular}
-\vspace*{2mm}
+<!-- \header{Skills} -->
+<!-- \vspace*{2mm} -->
+<!-- \begin{tabular}{ l l } -->
+<!--   Statistical computing languages:  & R, Julia, SAS \\ -->
+<!-- 	Other programming languages:         &  HTML, Markdown, R Shiny, Tableau, LaTeX \\ -->
+<!--   Probabilistic programming languages:         & BUGS, JAGS, NIMBLE, Stan \\ -->
+<!-- 	Database management systems:         & SQL, SQLite, Microsoft Excel \\ -->
+<!-- 	Operating systems:       & Windows, Mac OS \\ -->
+<!-- \end{tabular} -->
+<!-- \vspace*{2mm} -->
 
 <!-- references -->
 

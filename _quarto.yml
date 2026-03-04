@@ -12,6 +12,8 @@ website:
         href: publications.qmd
       - text: Presentations
         href: presentations.qmd
+      - text: Grants and Funding
+        href: grants.qmd
       - text: CV
         href: cv.qmd
       - text: Teaching materials
