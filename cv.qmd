@@ -27,6 +27,73 @@ editor: source
 
 Assistant professor of statistics with consulting, research, and teaching experience. Strong analytical skills pertaining to spatial statistics, Bayesian computation, and analysis of ecological data types. Research interests include: Bayesian computation, spatial statistics, species distribution modeling, modeling of wildlife disease, data visualization, and teaching techniques for statistics education.
 
+<!-- experience -->
+
+\vspace*{2mm}
+\header{Research and Collaboration Experience}
+\vspace*{2mm}
+
+\textbf{Middlebury College} \hfill Middlebury, VT
+
+\textit{Assistant Professor of Statistics} \hfill July 2024 - Present
+
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+    \item Developed new courses in statistics
+    \item Mentored and advised undergraduate students
+    \item Led collaborative research projects with faculty and students
+\end{itemize}
+
+\textbf{Montana State University} \hfill Bozeman, MT
+
+\textit{Post-doctoral researcher} \hfill July 2022 - May 2024
+
+Advisors: Dr. Kathryn Irvine (USGS) and Dr. Katharine Banner (MSU)
+
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+    \item Developed statistical modeling frameworks for ecological data structures
+    \item Authored multiple peer-reviewed journal articles and technical reports
+    \item Communicated complicated statistical models to domain experts from multiple agencies
+    \item Co-mentored a graduate-level statistician in support of research and analyses
+\end{itemize}
+
+\textbf{U.S. Geological Survey} \hfill Bozeman, MT
+
+\textit{Student contractor} \hfill August 2020 - July 2022
+
+Supervisor: Dr. Kathryn Irvine (USGS)
+
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+   \item Provided analyses for Endangered Species Act listing decisions
+   \item Authored peer-review journal articles and technical reports
+   \item Collaborated with scientists from multiple domains 
+\end{itemize}
+
+\textbf{Montana State University} \hfill Bozeman, MT
+
+\textit{Graduate Research Assistant} \hfill January 2019 - August 2020
+
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+   \item Resolved a wide scope of ecological problems using various techniques
+   \item Collaborated and communicated with domain experts in ecology and land-resource management
+   \item Developed models and tools to aid collaborators
+   \item Authored papers, web applications, and R packages
+\end{itemize}
+
+\textbf{Montana State University} \hfill Bozeman, MT
+
+\textit{Statistical Consultant} \hfill August 2017 - May 2018
+
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+   \item Communicated with clients
+   \item Identified solutions to a wide scope of problems
+   \item Successfully collaborated across departments to resolve problems
+\end{itemize}
+
 <!-- education -->
 
 \vspace*{2mm}
@@ -124,8 +191,6 @@ Bachelor of Science with Honors in Mathematics (focus: Statistics) \hfill Decemb
 
 <!-- presentations -->
 
-\newpage
-
 \header{Presentations}
 \vspace*{2mm}
 
@@ -179,74 +244,6 @@ Bachelor of Science with Honors in Mathematics (focus: Statistics) \hfill Decemb
 \vspace*{2mm}
 
 \textbf{1)} Co-Investigator. "Collaborative Research: E-RISE: The Vermont PFAS Environmental Research Network (PERN)." National Science Foundation NSF25-522. August 2025. \vspace*{2mm}
-
-
-
-<!-- experience -->
-
-\header{Research and Collaboration Experience}
-\vspace*{2mm}
-
-\textbf{Middlebury College} \hfill Middlebury, VT
-
-\textit{Assistant Professor of Statistics} \hfill July 2024 - Present
-
-\vspace{-1mm}
-\begin{itemize} \itemsep 1pt
-    \item Developed new courses in statistics
-    \item Mentored and advised undergraduate students
-    \item Led collaborative research projects with faculty and students
-\end{itemize}
-
-\textbf{Montana State University} \hfill Bozeman, MT
-
-\textit{Post-doctoral researcher} \hfill July 2022 - May 2024
-
-Advisors: Dr. Kathryn Irvine (USGS) and Dr. Katharine Banner (MSU)
-
-\vspace{-1mm}
-\begin{itemize} \itemsep 1pt
-    \item Developed statistical modeling frameworks for ecological data structures
-    \item Authored multiple peer-reviewed journal articles and technical reports
-    \item Communicated complicated statistical models to domain experts from multiple agencies
-    \item Co-mentored a graduate-level statistician in support of research and analyses
-\end{itemize}
-
-\textbf{U.S. Geological Survey} \hfill Bozeman, MT
-
-\textit{Student contractor} \hfill August 2020 - July 2022
-
-Supervisor: Dr. Kathryn Irvine (USGS)
-
-\vspace{-1mm}
-\begin{itemize} \itemsep 1pt
-   \item Provided analyses for Endangered Species Act listing decisions
-   \item Authored peer-review journal articles and technical reports
-   \item Collaborated with scientists from multiple domains 
-\end{itemize}
-
-\textbf{Montana State University} \hfill Bozeman, MT
-
-\textit{Graduate Research Assistant} \hfill January 2019 - August 2020
-
-\vspace{-1mm}
-\begin{itemize} \itemsep 1pt
-   \item Resolved a wide scope of ecological problems using various techniques
-   \item Collaborated and communicated with domain experts in ecology and land-resource management
-   \item Developed models and tools to aid collaborators
-   \item Authored papers, web applications, and R packages
-\end{itemize}
-
-\textbf{Montana State University} \hfill Bozeman, MT
-
-\textit{Statistical Consultant} \hfill August 2017 - May 2018
-
-\vspace{-1mm}
-\begin{itemize} \itemsep 1pt
-   \item Communicated with clients
-   \item Identified solutions to a wide scope of problems
-   \item Successfully collaborated across departments to resolve problems
-\end{itemize}
 
 <!-- teaching experience -->
 
